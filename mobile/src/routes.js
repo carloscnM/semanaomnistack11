@@ -10,9 +10,9 @@ import Datail from './pages/Detail';
 export default function Routes(){
     return(
         <NavigationContainer>
-            <AppStack.Navigator>
+            <AppStack.Navigator screenOptions={{headerShown: false}} >
                 <AppStack.Screen name="Incidents" component={Incidents} />
-                <AppStack.Screen name="Datail" component={Datail} />
+                <AppStack.Screen name="Detail" component={Datail} />
             </AppStack.Navigator>
         </NavigationContainer>
     );

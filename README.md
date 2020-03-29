@@ -18,7 +18,7 @@ Conhece mais da Rocketseat em:
 - @rocketseat_oficial
 
 
-##Funcionalidades
+## Funcionalidades
 
 As funcionalidades da implicação são:
 

@@ -1,4 +1,4 @@
-# semanaomnistack11
+# Semana OmniStack 11.0
 Projeto 'be the hero' Semana OmniStack 11.0
 
 
@@ -13,9 +13,9 @@ Aplicação foi desenvolvida durante a semana OmniStack 11.0, curso limitado dis
 
 Conhece mais da Rocketseat em: 
 
-@https://rocketseat.com.br/
-@https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
-@rocketseat_oficial
+- https://rocketseat.com.br/
+- https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
+- @rocketseat_oficial
 
 
 ###Funcionalidades

@@ -8,26 +8,26 @@ import logoImg from '../../assets/logo.svg';
 import './styles.css';
 
 export default function Profile(){
-    const ongId = localStorage.getItem('ongId');
     const ongName = localStorage.getItem('ongName');
+    const token = localStorage.getItem('token');
     const [incidents, setIncidents] = useState([]);
     const history = useHistory();
 
     useEffect(() => {
         api.get('profile', {
             headers: {
-                Authorization: ongId,
+                token_authorization: token,
             }
         }).then(response => {
             setIncidents(response.data)
         })
-    }, [ongId]);
+    }, [token]);
 
     async function handleDelete(id){
         try{
             await api.delete(`incidents/${id}`, {
                 headers: {
-                    Authorization: ongId,
+                    token_authorization: token,
                 }
             } );
 

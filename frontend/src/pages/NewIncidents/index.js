@@ -11,7 +11,7 @@ export default function NewIncidents() {
     const [title, setTitle] = useState('');
     const [description, setDescription] = useState('');
     const [value, setValue] = useState('');
-    const ongId = localStorage.getItem('ongId');
+    const token = localStorage.getItem('token');
 
     const history = useHistory();
 
@@ -22,7 +22,7 @@ export default function NewIncidents() {
         try{
             await api.post('incidents', data, {
                 headers: {
-                    Authorization: ongId,
+                    token_authorization: token,
                 }
             })
 

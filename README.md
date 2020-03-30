@@ -43,6 +43,15 @@ foi realizada utilizando a biblioteca axios (@https://github.com/axios/axios).
 
 
 
+### Novas implementações
+
+## JWT
+
++ Jwt
+
+Retorno de token de autorização utilizando a biblioteca JWT. 
+
+Alterações: BackEnd para gerar e validar token,  FrontEnd para receber e retornar token a cada requição. 
 
 
 

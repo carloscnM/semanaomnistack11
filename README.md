@@ -4,7 +4,7 @@ Projeto 'be the hero' Semana OmniStack 11.0
 
 ### Be the Hero
 
-"Be the Hero" foi o projeto utilizado durante o curso para exemplificar diversas tecnicas de programação. A mesma tem como intuíto
+"Be the Hero" foi o projeto utilizado durante o curso para exemplificar diversas tecnicas de programação. O mesmo tem como intuíto
 disponibilizar um portal web para que ongs possa publicar os casos que precisa de doação monetária. O projeto comtempla ainda
 uma aplicação mobile para que as pessoas possam conhecer os casos, assim as pessoas podem doar para ong entrando em contato com a mesma
 por meio do whatsapp e e-mail. 

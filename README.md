@@ -2,6 +2,8 @@
 Projeto 'be the hero' Semana OmniStack 11.0
 
 
+[![Build Status][travis-image]][travis-url]
+
 ### Be the Hero
 
 "Be the Hero" foi o projeto utilizado durante o curso para exemplificar diversas tecnicas de programação. O mesmo tem como intuíto

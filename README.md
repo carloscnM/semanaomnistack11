@@ -2,7 +2,7 @@
 Projeto 'be the hero' Semana OmniStack 11.0
 
 
-[![Build Status][travis-image]][travis-url]
+
 
 ### Be the Hero
 

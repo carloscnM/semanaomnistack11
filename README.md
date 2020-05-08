@@ -27,8 +27,9 @@ Conhece mais da Rocketseat em:
 
 ### Be the Hero - Mobile
 
-![betheheromob](https://user-images.githubusercontent.com/32484259/81362420-3886e180-90b7-11ea-8891-e4564600caa7.gif)
 
+
+<img src="https://user-images.githubusercontent.com/32484259/81362420-3886e180-90b7-11ea-8891-e4564600caa7.gif" height="500" width="320" >
 
 ## Funcionalidades
 
